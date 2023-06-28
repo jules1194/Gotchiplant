@@ -32,3 +32,24 @@ Este proyecto busca implementar las funciones de una planta inteligente.
 ### PCB Real Terminada
 ![PCB Real Top](https://raw.githubusercontent.com/jules1194/Gotchiplant/main/Implementaci%C3%B3n_Gotchiplant/PCB_Top.jpeg)
 ![PCB Real Bottom](https://raw.githubusercontent.com/jules1194/Gotchiplant/main/Implementaci%C3%B3n_Gotchiplant/PCB_Bottom.jpeg)
+
+## Pruebas realizadas durante la ejecución del proyecto
+
+### Prueba Lectura de datos Arduino IDE  y salida Display
+https://github.com/jules1194/Gotchiplant/assets/137961658/6f60a92b-0001-46fb-bf46-45bb00d068b1
+
+### Conexión sensores y Arduino Nano a la PCB
+![Prueba conexion sensores y arduino nano a la PCB](https://github.com/jules1194/Gotchiplant/assets/137961658/50751d6d-10ac-43a0-9ada-cef22d44f1fb)
+
+### Prueba Simulación Código en Arduinio IDE
+https://github.com/jules1194/Gotchiplant/assets/137961658/443aca30-f3b6-4041-8bca-e2bd3c89cd1e
+
+### Prueba ensamble sensores, arduino nano y PCB con alimentación externa
+https://github.com/jules1194/Gotchiplant/assets/137961658/406dce42-54d8-423b-a3e7-269711841c6a
+
+##
+
+
+
+
+
