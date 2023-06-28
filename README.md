@@ -18,3 +18,17 @@ Este proyecto busca implementar las funciones de una planta inteligente.
 [![PHOTO-2023-06-27-22-10-59.jpg](https://i.postimg.cc/SRPgPQYg/PHOTO-2023-06-27-22-10-59.jpg)](https://postimg.cc/Mfy0MSDB)
 
 ## Implementación 
+
+### Esquematico circuital Gotchiplant
+![Esquematico Gotchiplant](https://raw.githubusercontent.com/jules1194/Gotchiplant/main/Implementaci%C3%B3n_Gotchiplant/Gotchiplant_Diagrama_Electronico.png)
+
+### Ruteo de las pistas en Kicad
+![Ruteo PCB](https://raw.githubusercontent.com/jules1194/Gotchiplant/main/Implementaci%C3%B3n_Gotchiplant/Gotchiplant_PCB_Pistas.png)
+
+### Diseño de la PCB en 3D
+![Diseño PCB en 3D Top](https://raw.githubusercontent.com/jules1194/Gotchiplant/main/Implementaci%C3%B3n_Gotchiplant/Gotchiplant_PCB_Top.png)
+![Diseño PCB en 3D Bottom](https://raw.githubusercontent.com/jules1194/Gotchiplant/main/Implementaci%C3%B3n_Gotchiplant/Gotchiplant_PCB_Bottom.png)
+
+### PCB Real Terminada
+![PCB Real Top](https://raw.githubusercontent.com/jules1194/Gotchiplant/main/Implementaci%C3%B3n_Gotchiplant/PCB_Top.jpeg)
+![PCB Real Bottom](https://raw.githubusercontent.com/jules1194/Gotchiplant/main/Implementaci%C3%B3n_Gotchiplant/PCB_Bottom.jpeg)
