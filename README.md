@@ -5,4 +5,5 @@ Este proyecto busca implementar las funciones de una planta inteligente.
 https://raw.githubusercontent.com/LeidyVargas/MAGIC-GLOVE/main/Imagenes/Diagramas/Diagrama%20de%20flujo.jpeg
 
 Diagrama de cajas negras
+
 [![PHOTO-2023-06-27-22-10-59.jpg](https://i.postimg.cc/SRPgPQYg/PHOTO-2023-06-27-22-10-59.jpg)](https://postimg.cc/Mfy0MSDB)
