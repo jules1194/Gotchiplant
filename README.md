@@ -47,8 +47,13 @@ https://github.com/jules1194/Gotchiplant/assets/137961658/443aca30-f3b6-4041-8bc
 ### Prueba ensamble sensores, arduino nano y PCB con alimentación externa
 https://github.com/jules1194/Gotchiplant/assets/137961658/406dce42-54d8-423b-a3e7-269711841c6a
 
-##
+## Videos sobre la implementación final del proyecto
 
+### Explicación sobre la ubicación de los sensores de Gotchiplant
+https://github.com/jules1194/Gotchiplant/assets/137961658/88809492-0296-4c42-850c-8ad4974c118a
+
+### Funcionamiento Gotchiplant
+https://github.com/jules1194/Gotchiplant/assets/137961658/c117f062-664b-49f6-9f2e-c704b0ddebe9
 
 
 
