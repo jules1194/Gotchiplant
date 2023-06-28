@@ -1,6 +1,8 @@
 # Gotchiplant
 Este proyecto busca implementar las funciones de una planta inteligente.
 
+![Gotchiplant.png](https://raw.githubusercontent.com/jules1194/Gotchiplant/main/GOTCHIPLANT.png)
+
 Diagrama de cajas negras
 
 [![Block-Diagram-Template-1.jpg](https://i.postimg.cc/y6RS5X37/Block-Diagram-Template-1.jpg)](https://postimg.cc/6T934ZhP)
