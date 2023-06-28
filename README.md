@@ -12,4 +12,6 @@ Diagrama de cajas negras
 
 Diseño realizado en clase
 
+[![PHOTO-2023-06-27-22-10-24.jpg](https://i.postimg.cc/QMgnMrvM/PHOTO-2023-06-27-22-10-24.jpg)](https://postimg.cc/qtRGmWJf)
+
 [![PHOTO-2023-06-27-22-10-59.jpg](https://i.postimg.cc/SRPgPQYg/PHOTO-2023-06-27-22-10-59.jpg)](https://postimg.cc/Mfy0MSDB)
