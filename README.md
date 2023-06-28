@@ -6,6 +6,8 @@ https://raw.githubusercontent.com/LeidyVargas/MAGIC-GLOVE/main/Imagenes/Diagrama
 
 Diagrama de cajas negras
 
+[![Block-Diagram-Template-1.jpg](https://i.postimg.cc/y6RS5X37/Block-Diagram-Template-1.jpg)](https://postimg.cc/6T934ZhP)
+
 [![Block-Diagram-Template.jpg](https://i.postimg.cc/TPNVcdL1/Block-Diagram-Template.jpg)](https://postimg.cc/v19xYdvw)
 
 Diseño realizado en clase
